@@ -28,7 +28,7 @@ james_id = 343219159598891021
 
 os.chdir("C:\\Users\\zpfla\\Documents\\OLD DELL PC\\code stuffs\\Nugget2")
 
-TOKEN = 'NjY4OTg4MTI0NTY2NzgxOTg0.XiZRvg.CKej4DECCsw92EHN9pKsDHZwjgk'
+TOKEN = ''
 
 client = commands.Bot(command_prefix = "n-")
 
