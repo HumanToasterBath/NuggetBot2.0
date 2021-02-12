@@ -12,7 +12,7 @@ n-whois - Returns info on a user account such as creation date, roles, server jo
 n-define - Returns the wikipedia article for the specified topic<br/>
 
 **ECONOMY**<br/>
-__n-work__ - You work a shitty retail chain for a few nuggets an hour<br/>
+```n-work``` - You work a shitty retail chain for a few nuggets an hour<br/>
 n-beg - On the streets again are ya? :smirk:<br/>
 n-balance - Check how much money you got. Don't wanna be a broke bitch now do ya?<br/>
 n-deposit - Deposit the money in your wallet into the bank to avoid losing it<br/>
